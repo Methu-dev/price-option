@@ -30,7 +30,7 @@ const AxiosData = () => {
           <Bar dataKey="price" fill="#8884d8" />
           <XAxis dataKey={'name'}/>
           <YAxis />
-          <Tooltip />
+          <Tooltip /> 
         </BarChart>
     </div>
   )
